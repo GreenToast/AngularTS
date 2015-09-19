@@ -1,0 +1,17 @@
+<div class="main-countainer">
+    <div ng-controller="AngularTSApp.controllers.OverviewController">
+        <div>This is a TestAPP with Angular and TS</div>
+        <form name="typeForm" novalidate>
+            <div class="modal-body">
+                <ul>
+                    <li>
+                        <input type="text" class="datainput" name="typeName" placeholder="Name..." ng-model="name" />
+                    </li>
+                    <li>
+                        <a ng-bind="capitalizeFirstLetter(name)" />
+                    </li>
+                </ul>
+            </div>
+        </form>
+    </div>
+</div>

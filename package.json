@@ -1,0 +1,26 @@
+{
+  "name": "AngularTS",
+  "version": "0.0.0",
+  "private": true,
+  "devDependencies": {
+    "del": "^1.2.0",
+    "fs": "0.0.2",
+    "gulp": "^3.8.11",
+    "gulp-bower-files": "^0.2.7",
+    "gulp-concat": "^2.5.2",
+    "gulp-connect": "^2.2.0",
+    "gulp-imagemin": "^2.2.1",
+    "gulp-minify-html": "^1.0.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.0.1",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-tsc": "^0.9.5",
+    "gulp-uglify": "^1.2.0",
+    "http-server": "^0.8.0",
+    "main-bower-files": "^2.7.0",
+    "recursive-readdir": "^1.2.1",
+    "rmdir": "^1.1.0",
+    "tsd": "^0.6.0",
+    "typescript": "^1.5.0-beta"
+  }
+}

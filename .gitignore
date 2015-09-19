@@ -1,0 +1,7 @@
+build/AngularTS
+bower_components
+node_modules
+app/libs/ext
+.brackets.json
+/app/bin
+typings
