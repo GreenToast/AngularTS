@@ -20,6 +20,10 @@ Running the command bower install out of the root folder to install all app-depe
 
 bower install
 
+Running the command tsd install out of the root folder to install all typescript-definitions.
+
+tsd reinstall
+
 after that run the gulp-script to build the application by executing
 
 gulp startServeer
