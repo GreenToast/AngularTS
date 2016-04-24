@@ -1,7 +1,4 @@
-///<reference path="../../typings/jquery/jquery.d.ts" />
-///<reference path="../../typings/angularjs/angular.d.ts" />
-///<reference path="../../typings/angularjs/angular-route.d.ts" />
-///<reference path="../../typings/bootstrap/bootstrap.d.ts" />
+///<reference path="../../typings/browser.d.ts" />
 
 //using Route
 
